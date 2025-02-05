@@ -1,0 +1,383 @@
+{
+  "metadata": {
+    "query": "comfortable footbed",
+    "search_mode": "any",
+    "document_count": 34
+  },
+  "ranked_documents": [
+    [
+      "https://web-scraping.dev/product/20?variant=beige-8",
+      {
+        "bm25_score": 3.1316643768967625,
+        "exact_match_score": 0,
+        "review_score": 0.35200000000000004,
+        "title_match_score": 0.0,
+        "origin_match_score": 0,
+        "final_score": 3.4836643768967623
+      }
+    ],
+    [
+      "https://web-scraping.dev/product/8?variant=beige-7",
+      {
+        "bm25_score": 3.1316643768967625,
+        "exact_match_score": 0,
+        "review_score": 0.35200000000000004,
+        "title_match_score": 0.0,
+        "origin_match_score": 0,
+        "final_score": 3.4836643768967623
+      }
+    ],
+    [
+      "https://web-scraping.dev/product/8?variant=beige-6",
+      {
+        "bm25_score": 3.1316643768967625,
+        "exact_match_score": 0,
+        "review_score": 0.35200000000000004,
+        "title_match_score": 0.0,
+        "origin_match_score": 0,
+        "final_score": 3.4836643768967623
+      }
+    ],
+    [
+      "https://web-scraping.dev/product/20?variant=beige-6",
+      {
+        "bm25_score": 3.1316643768967625,
+        "exact_match_score": 0,
+        "review_score": 0.35200000000000004,
+        "title_match_score": 0.0,
+        "origin_match_score": 0,
+        "final_score": 3.4836643768967623
+      }
+    ],
+    [
+      "https://web-scraping.dev/product/20",
+      {
+        "bm25_score": 3.1316643768967625,
+        "exact_match_score": 0,
+        "review_score": 0.35200000000000004,
+        "title_match_score": 0.0,
+        "origin_match_score": 0,
+        "final_score": 3.4836643768967623
+      }
+    ],
+    [
+      "https://web-scraping.dev/product/8?variant=blue-9",
+      {
+        "bm25_score": 3.1159929955278045,
+        "exact_match_score": 0,
+        "review_score": 0.35200000000000004,
+        "title_match_score": 0.0,
+        "origin_match_score": 0,
+        "final_score": 3.4679929955278044
+      }
+    ],
+    [
+      "https://web-scraping.dev/product/8?variant=beige-8",
+      {
+        "bm25_score": 3.1159929955278045,
+        "exact_match_score": 0,
+        "review_score": 0.35200000000000004,
+        "title_match_score": 0.0,
+        "origin_match_score": 0,
+        "final_score": 3.4679929955278044
+      }
+    ],
+    [
+      "https://web-scraping.dev/product/20?variant=beige-7",
+      {
+        "bm25_score": 3.1159929955278045,
+        "exact_match_score": 0,
+        "review_score": 0.35200000000000004,
+        "title_match_score": 0.0,
+        "origin_match_score": 0,
+        "final_score": 3.4679929955278044
+      }
+    ],
+    [
+      "https://web-scraping.dev/product/10",
+      {
+        "bm25_score": 1.7998715192161896,
+        "exact_match_score": 0,
+        "review_score": 0.35200000000000004,
+        "title_match_score": 0.0,
+        "origin_match_score": 0,
+        "final_score": 2.1518715192161895
+      }
+    ],
+    [
+      "https://web-scraping.dev/product/22?variant=red-5",
+      {
+        "bm25_score": 1.7908420634341684,
+        "exact_match_score": 0,
+        "review_score": 0.35200000000000004,
+        "title_match_score": 0.0,
+        "origin_match_score": 0,
+        "final_score": 2.1428420634341685
+      }
+    ],
+    [
+      "https://web-scraping.dev/product/10?variant=red-6",
+      {
+        "bm25_score": 1.7908420634341684,
+        "exact_match_score": 0,
+        "review_score": 0.35200000000000004,
+        "title_match_score": 0.0,
+        "origin_match_score": 0,
+        "final_score": 2.1428420634341685
+      }
+    ],
+    [
+      "https://web-scraping.dev/product/22?variant=red-6",
+      {
+        "bm25_score": 1.7908420634341684,
+        "exact_match_score": 0,
+        "review_score": 0.35200000000000004,
+        "title_match_score": 0.0,
+        "origin_match_score": 0,
+        "final_score": 2.1428420634341685
+      }
+    ],
+    [
+      "https://web-scraping.dev/product/10?variant=blue-6",
+      {
+        "bm25_score": 1.773052241611975,
+        "exact_match_score": 0,
+        "review_score": 0.35200000000000004,
+        "title_match_score": 0.0,
+        "origin_match_score": 0,
+        "final_score": 2.125052241611975
+      }
+    ],
+    [
+      "https://web-scraping.dev/product/10?variant=blue-5",
+      {
+        "bm25_score": 1.7686598743742905,
+        "exact_match_score": 0,
+        "review_score": 0.35200000000000004,
+        "title_match_score": 0.0,
+        "origin_match_score": 0,
+        "final_score": 2.1206598743742906
+      }
+    ],
+    [
+      "https://web-scraping.dev/product/22?variant=blue-5",
+      {
+        "bm25_score": 1.7686598743742905,
+        "exact_match_score": 0,
+        "review_score": 0.35200000000000004,
+        "title_match_score": 0.0,
+        "origin_match_score": 0,
+        "final_score": 2.1206598743742906
+      }
+    ],
+    [
+      "https://web-scraping.dev/product/10?variant=red-5",
+      {
+        "bm25_score": 1.7686598743742905,
+        "exact_match_score": 0,
+        "review_score": 0.35200000000000004,
+        "title_match_score": 0.0,
+        "origin_match_score": 0,
+        "final_score": 2.1206598743742906
+      }
+    ],
+    [
+      "https://web-scraping.dev/product/21",
+      {
+        "bm25_score": 1.3430737100004815,
+        "exact_match_score": 0,
+        "review_score": 0.35200000000000004,
+        "title_match_score": 0.0,
+        "origin_match_score": 0,
+        "final_score": 1.6950737100004816
+      }
+    ],
+    [
+      "https://web-scraping.dev/product/21?variant=10",
+      {
+        "bm25_score": 1.3430737100004815,
+        "exact_match_score": 0,
+        "review_score": 0.35200000000000004,
+        "title_match_score": 0.0,
+        "origin_match_score": 0,
+        "final_score": 1.6950737100004816
+      }
+    ],
+    [
+      "https://web-scraping.dev/product/9",
+      {
+        "bm25_score": 1.3430737100004815,
+        "exact_match_score": 0,
+        "review_score": 0.35200000000000004,
+        "title_match_score": 0.0,
+        "origin_match_score": 0,
+        "final_score": 1.6950737100004816
+      }
+    ],
+    [
+      "https://web-scraping.dev/product/21?variant=9",
+      {
+        "bm25_score": 1.3396878098912366,
+        "exact_match_score": 0,
+        "review_score": 0.35200000000000004,
+        "title_match_score": 0.0,
+        "origin_match_score": 0,
+        "final_score": 1.6916878098912367
+      }
+    ],
+    [
+      "https://web-scraping.dev/product/21?variant=11",
+      {
+        "bm25_score": 1.3396878098912366,
+        "exact_match_score": 0,
+        "review_score": 0.35200000000000004,
+        "title_match_score": 0.0,
+        "origin_match_score": 0,
+        "final_score": 1.6916878098912367
+      }
+    ],
+    [
+      "https://web-scraping.dev/product/9?variant=11",
+      {
+        "bm25_score": 1.3396878098912366,
+        "exact_match_score": 0,
+        "review_score": 0.35200000000000004,
+        "title_match_score": 0.0,
+        "origin_match_score": 0,
+        "final_score": 1.6916878098912367
+      }
+    ],
+    [
+      "https://web-scraping.dev/product/19?variant=9",
+      {
+        "bm25_score": 1.3132030426446224,
+        "exact_match_score": 0,
+        "review_score": 0.376,
+        "title_match_score": 0.0,
+        "origin_match_score": 0,
+        "final_score": 1.6892030426446225
+      }
+    ],
+    [
+      "https://web-scraping.dev/product/19?variant=7",
+      {
+        "bm25_score": 1.3132030426446224,
+        "exact_match_score": 0,
+        "review_score": 0.376,
+        "title_match_score": 0.0,
+        "origin_match_score": 0,
+        "final_score": 1.6892030426446225
+      }
+    ],
+    [
+      "https://web-scraping.dev/product/7?variant=6",
+      {
+        "bm25_score": 1.3132030426446224,
+        "exact_match_score": 0,
+        "review_score": 0.376,
+        "title_match_score": 0.0,
+        "origin_match_score": 0,
+        "final_score": 1.6892030426446225
+      }
+    ],
+    [
+      "https://web-scraping.dev/product/9?variant=10",
+      {
+        "bm25_score": 1.3363189386174112,
+        "exact_match_score": 0,
+        "review_score": 0.35200000000000004,
+        "title_match_score": 0.0,
+        "origin_match_score": 0,
+        "final_score": 1.6883189386174113
+      }
+    ],
+    [
+      "https://web-scraping.dev/product/9?variant=12",
+      {
+        "bm25_score": 1.3363189386174112,
+        "exact_match_score": 0,
+        "review_score": 0.35200000000000004,
+        "title_match_score": 0.0,
+        "origin_match_score": 0,
+        "final_score": 1.6883189386174113
+      }
+    ],
+    [
+      "https://web-scraping.dev/product/9?variant=9",
+      {
+        "bm25_score": 1.3363189386174112,
+        "exact_match_score": 0,
+        "review_score": 0.35200000000000004,
+        "title_match_score": 0.0,
+        "origin_match_score": 0,
+        "final_score": 1.6883189386174113
+      }
+    ],
+    [
+      "https://web-scraping.dev/product/19",
+      {
+        "bm25_score": 1.3099658946348163,
+        "exact_match_score": 0,
+        "review_score": 0.376,
+        "title_match_score": 0.0,
+        "origin_match_score": 0,
+        "final_score": 1.6859658946348164
+      }
+    ],
+    [
+      "https://web-scraping.dev/product/7",
+      {
+        "bm25_score": 1.3099658946348163,
+        "exact_match_score": 0,
+        "review_score": 0.376,
+        "title_match_score": 0.0,
+        "origin_match_score": 0,
+        "final_score": 1.6859658946348164
+      }
+    ],
+    [
+      "https://web-scraping.dev/product/19?variant=8",
+      {
+        "bm25_score": 1.3067446670250586,
+        "exact_match_score": 0,
+        "review_score": 0.376,
+        "title_match_score": 0.0,
+        "origin_match_score": 0,
+        "final_score": 1.6827446670250588
+      }
+    ],
+    [
+      "https://web-scraping.dev/product/7?variant=8",
+      {
+        "bm25_score": 1.3067446670250586,
+        "exact_match_score": 0,
+        "review_score": 0.376,
+        "title_match_score": 0.0,
+        "origin_match_score": 0,
+        "final_score": 1.6827446670250588
+      }
+    ],
+    [
+      "https://web-scraping.dev/product/19?variant=6",
+      {
+        "bm25_score": 1.3067446670250586,
+        "exact_match_score": 0,
+        "review_score": 0.376,
+        "title_match_score": 0.0,
+        "origin_match_score": 0,
+        "final_score": 1.6827446670250588
+      }
+    ],
+    [
+      "https://web-scraping.dev/product/7?variant=7",
+      {
+        "bm25_score": 1.3067446670250586,
+        "exact_match_score": 0,
+        "review_score": 0.376,
+        "title_match_score": 0.0,
+        "origin_match_score": 0,
+        "final_score": 1.6827446670250588
+      }
+    ]
+  ]
+}

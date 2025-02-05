@@ -1,0 +1,350 @@
+{
+  "metadata": {
+    "query": "Cat-Ear Beanie america",
+    "search_mode": "any",
+    "document_count": 31
+  },
+  "ranked_documents": [
+    [
+      "https://web-scraping.dev/product/12?variant=pink-small",
+      {
+        "bm25_score": 2.924293792781304,
+        "exact_match_score": 0,
+        "review_score": 0.35200000000000004,
+        "title_match_score": 0.6,
+        "origin_match_score": 0.1,
+        "final_score": 3.9762937927813042
+      }
+    ],
+    [
+      "https://web-scraping.dev/product/12",
+      {
+        "bm25_score": 2.9195198230129877,
+        "exact_match_score": 0,
+        "review_score": 0.35200000000000004,
+        "title_match_score": 0.6,
+        "origin_match_score": 0.1,
+        "final_score": 3.971519823012988
+      }
+    ],
+    [
+      "https://web-scraping.dev/product/24?variant=darkgrey-small",
+      {
+        "bm25_score": 2.914411888736656,
+        "exact_match_score": 0,
+        "review_score": 0.35200000000000004,
+        "title_match_score": 0.6,
+        "origin_match_score": 0.1,
+        "final_score": 3.966411888736656
+      }
+    ],
+    [
+      "https://web-scraping.dev/product/12?variant=pink-medium",
+      {
+        "bm25_score": 2.914411888736656,
+        "exact_match_score": 0,
+        "review_score": 0.35200000000000004,
+        "title_match_score": 0.6,
+        "origin_match_score": 0.1,
+        "final_score": 3.966411888736656
+      }
+    ],
+    [
+      "https://web-scraping.dev/product/12?variant=darkgrey-medium",
+      {
+        "bm25_score": 2.914411888736656,
+        "exact_match_score": 0,
+        "review_score": 0.35200000000000004,
+        "title_match_score": 0.6,
+        "origin_match_score": 0.1,
+        "final_score": 3.966411888736656
+      }
+    ],
+    [
+      "https://web-scraping.dev/product/24?variant=pink-medium",
+      {
+        "bm25_score": 2.914411888736656,
+        "exact_match_score": 0,
+        "review_score": 0.35200000000000004,
+        "title_match_score": 0.6,
+        "origin_match_score": 0.1,
+        "final_score": 3.966411888736656
+      }
+    ],
+    [
+      "https://web-scraping.dev/product/12?variant=sand-medium",
+      {
+        "bm25_score": 2.914411888736656,
+        "exact_match_score": 0,
+        "review_score": 0.35200000000000004,
+        "title_match_score": 0.6,
+        "origin_match_score": 0.1,
+        "final_score": 3.966411888736656
+      }
+    ],
+    [
+      "https://web-scraping.dev/product/24?variant=darkgrey-medium",
+      {
+        "bm25_score": 2.9102879730189537,
+        "exact_match_score": 0,
+        "review_score": 0.35200000000000004,
+        "title_match_score": 0.6,
+        "origin_match_score": 0.1,
+        "final_score": 3.9622879730189537
+      }
+    ],
+    [
+      "https://web-scraping.dev/product/12?variant=sand-small",
+      {
+        "bm25_score": 2.9102879730189537,
+        "exact_match_score": 0,
+        "review_score": 0.35200000000000004,
+        "title_match_score": 0.6,
+        "origin_match_score": 0.1,
+        "final_score": 3.9622879730189537
+      }
+    ],
+    [
+      "https://web-scraping.dev/product/24?variant=grey-medium",
+      {
+        "bm25_score": 2.9102879730189537,
+        "exact_match_score": 0,
+        "review_score": 0.35200000000000004,
+        "title_match_score": 0.6,
+        "origin_match_score": 0.1,
+        "final_score": 3.9622879730189537
+      }
+    ],
+    [
+      "https://web-scraping.dev/product/12?variant=darkgrey-small",
+      {
+        "bm25_score": 2.9102879730189537,
+        "exact_match_score": 0,
+        "review_score": 0.35200000000000004,
+        "title_match_score": 0.6,
+        "origin_match_score": 0.1,
+        "final_score": 3.9622879730189537
+      }
+    ],
+    [
+      "https://web-scraping.dev/product/24?variant=grey-small",
+      {
+        "bm25_score": 2.9102879730189537,
+        "exact_match_score": 0,
+        "review_score": 0.35200000000000004,
+        "title_match_score": 0.6,
+        "origin_match_score": 0.1,
+        "final_score": 3.9622879730189537
+      }
+    ],
+    [
+      "https://web-scraping.dev/product/24",
+      {
+        "bm25_score": 2.894889208696163,
+        "exact_match_score": 0,
+        "review_score": 0.35200000000000004,
+        "title_match_score": 0.6,
+        "origin_match_score": 0.1,
+        "final_score": 3.946889208696163
+      }
+    ],
+    [
+      "https://web-scraping.dev/product/24?variant=sand-medium",
+      {
+        "bm25_score": 2.8852462865675963,
+        "exact_match_score": 0,
+        "review_score": 0.35200000000000004,
+        "title_match_score": 0.6,
+        "origin_match_score": 0.1,
+        "final_score": 3.9372462865675963
+      }
+    ],
+    [
+      "https://web-scraping.dev/product/24?variant=pink-small",
+      {
+        "bm25_score": 2.870926983914541,
+        "exact_match_score": 0,
+        "review_score": 0.35200000000000004,
+        "title_match_score": 0.6,
+        "origin_match_score": 0.1,
+        "final_score": 3.922926983914541
+      }
+    ],
+    [
+      "https://web-scraping.dev/product/12?variant=grey-small",
+      {
+        "bm25_score": 2.870926983914541,
+        "exact_match_score": 0,
+        "review_score": 0.35200000000000004,
+        "title_match_score": 0.6,
+        "origin_match_score": 0.1,
+        "final_score": 3.922926983914541
+      }
+    ],
+    [
+      "https://web-scraping.dev/product/12?variant=grey-medium",
+      {
+        "bm25_score": 2.870926983914541,
+        "exact_match_score": 0,
+        "review_score": 0.35200000000000004,
+        "title_match_score": 0.6,
+        "origin_match_score": 0.1,
+        "final_score": 3.922926983914541
+      }
+    ],
+    [
+      "https://web-scraping.dev/product/24?variant=sand-small",
+      {
+        "bm25_score": 2.870926983914541,
+        "exact_match_score": 0,
+        "review_score": 0.35200000000000004,
+        "title_match_score": 0.6,
+        "origin_match_score": 0.1,
+        "final_score": 3.922926983914541
+      }
+    ],
+    [
+      "https://web-scraping.dev/product/13?variant=orange-large",
+      {
+        "bm25_score": 0.0,
+        "exact_match_score": 0,
+        "review_score": 0.376,
+        "title_match_score": 0.0,
+        "origin_match_score": 0.1,
+        "final_score": 0.476
+      }
+    ],
+    [
+      "https://web-scraping.dev/product/25?variant=orange-small",
+      {
+        "bm25_score": 0.0,
+        "exact_match_score": 0,
+        "review_score": 0.376,
+        "title_match_score": 0.0,
+        "origin_match_score": 0.1,
+        "final_score": 0.476
+      }
+    ],
+    [
+      "https://web-scraping.dev/product/7?variant=9",
+      {
+        "bm25_score": 0.0,
+        "exact_match_score": 0,
+        "review_score": 0.376,
+        "title_match_score": 0.0,
+        "origin_match_score": 0.1,
+        "final_score": 0.476
+      }
+    ],
+    [
+      "https://web-scraping.dev/product/5?variant=one",
+      {
+        "bm25_score": 0.0,
+        "exact_match_score": 0,
+        "review_score": 0.376,
+        "title_match_score": 0.0,
+        "origin_match_score": 0.1,
+        "final_score": 0.476
+      }
+    ],
+    [
+      "https://web-scraping.dev/product/18?variant=six-pack",
+      {
+        "bm25_score": 0.0,
+        "exact_match_score": 0,
+        "review_score": 0.36500000000000005,
+        "title_match_score": 0.0,
+        "origin_match_score": 0.1,
+        "final_score": 0.4650000000000001
+      }
+    ],
+    [
+      "https://web-scraping.dev/product/26?variant=six-pack",
+      {
+        "bm25_score": 0.0,
+        "exact_match_score": 0,
+        "review_score": 0.36500000000000005,
+        "title_match_score": 0.0,
+        "origin_match_score": 0.1,
+        "final_score": 0.4650000000000001
+      }
+    ],
+    [
+      "https://web-scraping.dev/product/21",
+      {
+        "bm25_score": 0.0,
+        "exact_match_score": 0,
+        "review_score": 0.35200000000000004,
+        "title_match_score": 0.0,
+        "origin_match_score": 0.1,
+        "final_score": 0.45200000000000007
+      }
+    ],
+    [
+      "https://web-scraping.dev/product/22?variant=blue-6",
+      {
+        "bm25_score": 0.0,
+        "exact_match_score": 0,
+        "review_score": 0.35200000000000004,
+        "title_match_score": 0.0,
+        "origin_match_score": 0.1,
+        "final_score": 0.45200000000000007
+      }
+    ],
+    [
+      "https://web-scraping.dev/product/20",
+      {
+        "bm25_score": 0.0,
+        "exact_match_score": 0,
+        "review_score": 0.35200000000000004,
+        "title_match_score": 0.0,
+        "origin_match_score": 0.1,
+        "final_score": 0.45200000000000007
+      }
+    ],
+    [
+      "https://web-scraping.dev/product/10",
+      {
+        "bm25_score": 0.0,
+        "exact_match_score": 0,
+        "review_score": 0.35200000000000004,
+        "title_match_score": 0.0,
+        "origin_match_score": 0.1,
+        "final_score": 0.45200000000000007
+      }
+    ],
+    [
+      "https://web-scraping.dev/products?category=household&page=5",
+      {
+        "bm25_score": 0.0,
+        "exact_match_score": 0,
+        "review_score": 0.0,
+        "title_match_score": 0.0,
+        "origin_match_score": 0.1,
+        "final_score": 0.1
+      }
+    ],
+    [
+      "https://web-scraping.dev/products?category=apparel&page=3",
+      {
+        "bm25_score": 0.0,
+        "exact_match_score": 0,
+        "review_score": 0.0,
+        "title_match_score": 0.0,
+        "origin_match_score": 0.1,
+        "final_score": 0.1
+      }
+    ],
+    [
+      "https://web-scraping.dev/products?page=5",
+      {
+        "bm25_score": 0.0,
+        "exact_match_score": 0,
+        "review_score": 0.0,
+        "title_match_score": 0.0,
+        "origin_match_score": 0.1,
+        "final_score": 0.1
+      }
+    ]
+  ]
+}

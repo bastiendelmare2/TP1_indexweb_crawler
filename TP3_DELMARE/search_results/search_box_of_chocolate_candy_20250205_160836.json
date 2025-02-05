@@ -1,0 +1,240 @@
+{
+  "metadata": {
+    "query": "Box of Chocolate Candy",
+    "search_mode": "any",
+    "document_count": 21
+  },
+  "ranked_documents": [
+    [
+      "https://web-scraping.dev/product/1",
+      {
+        "bm25_score": 3.2355920397150886,
+        "exact_match_score": 1.5,
+        "review_score": 0.376,
+        "title_match_score": 0.8999999999999999,
+        "origin_match_score": 0,
+        "final_score": 6.011592039715088
+      }
+    ],
+    [
+      "https://web-scraping.dev/product/25",
+      {
+        "bm25_score": 3.200443747246254,
+        "exact_match_score": 1.5,
+        "review_score": 0.376,
+        "title_match_score": 0.8999999999999999,
+        "origin_match_score": 0,
+        "final_score": 5.976443747246254
+      }
+    ],
+    [
+      "https://web-scraping.dev/product/13",
+      {
+        "bm25_score": 3.074458342423905,
+        "exact_match_score": 1.5,
+        "review_score": 0.376,
+        "title_match_score": 0.8999999999999999,
+        "origin_match_score": 0,
+        "final_score": 5.850458342423905
+      }
+    ],
+    [
+      "https://web-scraping.dev/product/13?variant=orange-small",
+      {
+        "bm25_score": 3.2291758838916276,
+        "exact_match_score": 0,
+        "review_score": 0.376,
+        "title_match_score": 0.8999999999999999,
+        "origin_match_score": 0,
+        "final_score": 4.505175883891628
+      }
+    ],
+    [
+      "https://web-scraping.dev/product/13?variant=orange-large",
+      {
+        "bm25_score": 3.2291758838916276,
+        "exact_match_score": 0,
+        "review_score": 0.376,
+        "title_match_score": 0.8999999999999999,
+        "origin_match_score": 0,
+        "final_score": 4.505175883891628
+      }
+    ],
+    [
+      "https://web-scraping.dev/product/25?variant=cherry-small",
+      {
+        "bm25_score": 3.2291758838916276,
+        "exact_match_score": 0,
+        "review_score": 0.376,
+        "title_match_score": 0.8999999999999999,
+        "origin_match_score": 0,
+        "final_score": 4.505175883891628
+      }
+    ],
+    [
+      "https://web-scraping.dev/product/25?variant=orange-small",
+      {
+        "bm25_score": 3.2291758838916276,
+        "exact_match_score": 0,
+        "review_score": 0.376,
+        "title_match_score": 0.8999999999999999,
+        "origin_match_score": 0,
+        "final_score": 4.505175883891628
+      }
+    ],
+    [
+      "https://web-scraping.dev/product/25?variant=orange-large",
+      {
+        "bm25_score": 3.2291758838916276,
+        "exact_match_score": 0,
+        "review_score": 0.376,
+        "title_match_score": 0.8999999999999999,
+        "origin_match_score": 0,
+        "final_score": 4.505175883891628
+      }
+    ],
+    [
+      "https://web-scraping.dev/product/1?variant=cherry-medium",
+      {
+        "bm25_score": 3.2291758838916276,
+        "exact_match_score": 0,
+        "review_score": 0.376,
+        "title_match_score": 0.8999999999999999,
+        "origin_match_score": 0,
+        "final_score": 4.505175883891628
+      }
+    ],
+    [
+      "https://web-scraping.dev/product/13?variant=cherry-small",
+      {
+        "bm25_score": 3.2291758838916276,
+        "exact_match_score": 0,
+        "review_score": 0.376,
+        "title_match_score": 0.8999999999999999,
+        "origin_match_score": 0,
+        "final_score": 4.505175883891628
+      }
+    ],
+    [
+      "https://web-scraping.dev/product/1?variant=orange-medium",
+      {
+        "bm25_score": 3.2291758838916276,
+        "exact_match_score": 0,
+        "review_score": 0.376,
+        "title_match_score": 0.8999999999999999,
+        "origin_match_score": 0,
+        "final_score": 4.505175883891628
+      }
+    ],
+    [
+      "https://web-scraping.dev/product/1?variant=cherry-large",
+      {
+        "bm25_score": 3.1935684652972824,
+        "exact_match_score": 0,
+        "review_score": 0.376,
+        "title_match_score": 0.8999999999999999,
+        "origin_match_score": 0,
+        "final_score": 4.469568465297282
+      }
+    ],
+    [
+      "https://web-scraping.dev/product/1?variant=orange-small",
+      {
+        "bm25_score": 3.0660906732720097,
+        "exact_match_score": 0,
+        "review_score": 0.376,
+        "title_match_score": 0.8999999999999999,
+        "origin_match_score": 0,
+        "final_score": 4.3420906732720095
+      }
+    ],
+    [
+      "https://web-scraping.dev/product/13?variant=cherry-medium",
+      {
+        "bm25_score": 3.0660906732720097,
+        "exact_match_score": 0,
+        "review_score": 0.376,
+        "title_match_score": 0.8999999999999999,
+        "origin_match_score": 0,
+        "final_score": 4.3420906732720095
+      }
+    ],
+    [
+      "https://web-scraping.dev/product/13?variant=cherry-large",
+      {
+        "bm25_score": 3.0412649163752694,
+        "exact_match_score": 0,
+        "review_score": 0.376,
+        "title_match_score": 0.8999999999999999,
+        "origin_match_score": 0,
+        "final_score": 4.31726491637527
+      }
+    ],
+    [
+      "https://web-scraping.dev/product/1?variant=orange-large",
+      {
+        "bm25_score": 3.0412649163752694,
+        "exact_match_score": 0,
+        "review_score": 0.376,
+        "title_match_score": 0.8999999999999999,
+        "origin_match_score": 0,
+        "final_score": 4.31726491637527
+      }
+    ],
+    [
+      "https://web-scraping.dev/product/13?variant=orange-medium",
+      {
+        "bm25_score": 3.0412649163752694,
+        "exact_match_score": 0,
+        "review_score": 0.376,
+        "title_match_score": 0.8999999999999999,
+        "origin_match_score": 0,
+        "final_score": 4.31726491637527
+      }
+    ],
+    [
+      "https://web-scraping.dev/product/25?variant=orange-medium",
+      {
+        "bm25_score": 3.0412649163752694,
+        "exact_match_score": 0,
+        "review_score": 0.376,
+        "title_match_score": 0.8999999999999999,
+        "origin_match_score": 0,
+        "final_score": 4.31726491637527
+      }
+    ],
+    [
+      "https://web-scraping.dev/product/25?variant=cherry-medium",
+      {
+        "bm25_score": 3.0412649163752694,
+        "exact_match_score": 0,
+        "review_score": 0.376,
+        "title_match_score": 0.8999999999999999,
+        "origin_match_score": 0,
+        "final_score": 4.31726491637527
+      }
+    ],
+    [
+      "https://web-scraping.dev/product/25?variant=cherry-large",
+      {
+        "bm25_score": 3.0412649163752694,
+        "exact_match_score": 0,
+        "review_score": 0.376,
+        "title_match_score": 0.8999999999999999,
+        "origin_match_score": 0,
+        "final_score": 4.31726491637527
+      }
+    ],
+    [
+      "https://web-scraping.dev/product/1?variant=cherry-small",
+      {
+        "bm25_score": 3.0412649163752694,
+        "exact_match_score": 0,
+        "review_score": 0.376,
+        "title_match_score": 0.8999999999999999,
+        "origin_match_score": 0,
+        "final_score": 4.31726491637527
+      }
+    ]
+  ]
+}
